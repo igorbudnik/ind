@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/map/static/css/main.01ff3a26.css",
+    "main.js": "/map/static/js/main.5d441f61.js",
+    "static/js/787.c998b109.chunk.js": "/map/static/js/787.c998b109.chunk.js",
+    "static/media/RubikDoodleShadow-Regular.ttf": "/map/static/media/RubikDoodleShadow-Regular.e0707082a5c4954d7fdd.ttf",
+    "static/media/red_sq.jpg": "/map/static/media/red_sq.5cbebaadf4f263f204cb.jpg",
+    "index.html": "/map/index.html",
+    "main.01ff3a26.css.map": "/map/static/css/main.01ff3a26.css.map",
+    "main.5d441f61.js.map": "/map/static/js/main.5d441f61.js.map",
+    "787.c998b109.chunk.js.map": "/map/static/js/787.c998b109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01ff3a26.css",
+    "static/js/main.5d441f61.js"
+  ]
+}
